@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meor, pronounce miyo
-- 👀 I’m interested in mobile/software developement
-- 🌱 I’m currently learning python
+- 👀 Interested in mobile developement
+- 🌱 Currently learning python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love shortcuts...
 
